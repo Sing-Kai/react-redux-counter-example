@@ -1,0 +1,24 @@
+.Counter{
+    margin: auto;
+    width: 10%;
+    border: 3px solid gray;
+    padding: 10px;
+    text-align: center;
+    font-family: monospace;
+}
+
+button{
+    border: 0;
+    background-color: lightgray; 
+}
+
+.count{
+    margin-left: auto;
+    margin-right: auto;   
+
+    height: 10px;
+    width: 50px;
+    padding-left: 10px; 
+    padding-right: 10px; 
+}
+
